@@ -6,6 +6,8 @@ public class DemoONE {
 		System.out.println("Demo");
 
 		System.out.println("Random change...");
+		
+		System.out.println("This line code");
 	}
 
 	public static void add(int a, int b) {
