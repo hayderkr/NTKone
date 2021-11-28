@@ -16,5 +16,6 @@ public class DemoONE {
 
 		System.out.println(a + b);
 
+		System.out.println("hi");
 	}
 }
